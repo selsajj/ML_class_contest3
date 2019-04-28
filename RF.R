@@ -1,4 +1,4 @@
-setwd("C:/Users/Sepehr/Desktop/Contest3")
+setwd("")
 load("contest3_train_test.Rdata")
 library(randomForest)
 #########################################################
