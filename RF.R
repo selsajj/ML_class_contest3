@@ -1,4 +1,4 @@
-setwd("")
+setwd("./")
 load("contest3_train_test.Rdata")
 library(randomForest)
 #########################################################
